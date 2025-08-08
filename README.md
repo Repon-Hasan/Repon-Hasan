@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/KMGbLJq/gitbub-Banner.jpg" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/Swch7sfn/Blue-Futuristic-Technology-Linked-In-Banner.png" width="100%" />
 </p>
 
 <!-- Name & Designation -->
