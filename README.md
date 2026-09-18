@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://i.ibb.co.com/Swch7sfn/Blue-Futuristic-Technology-Linked-In-Banner.png"
+    src="https://i.ibb.co.com/rK3NS5Q2/Gemini-Generated-Image-6jj2646jj2646jj2.jpg"
     width="100%"
     alt="Repon Hasan - Full Stack Developer and AI Integration"
   />
@@ -230,21 +230,25 @@ A full-stack car rental platform where users can browse and book available vehic
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=reponhasan&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Repon-Hasan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="180"
+    alt="Repon Hasan GitHub Stats"
   />
   <img
-    src="https://streak-stats.demolab.com?user=reponhasan&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Repon-Hasan&theme=tokyonight&hide_border=true"
     height="180"
+    alt="Repon Hasan GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=reponhasan&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Repon-Hasan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     height="180"
+    alt="Top Languages"
   />
 </p>
+
 
 ---
 
